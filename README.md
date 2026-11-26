@@ -6,11 +6,15 @@
 
 **Building the web. Exploring AI. Engineering the future.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-zahidxtech-111111?style=for-the-badge&logo=github)](https://github.com/zahidxtech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zahidxtech/)
-[![Instagram](https://img.shields.io/badge/Instagram-im7hv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im7hv/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27636690119)
-[![Email](https://img.shields.io/badge/Email-Contact-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahidxtech@gmail.com)
+<div align="center">
+
+<a href="https://github.com/zahidxtech"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="32"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/zahidxtech/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/im7hv/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32"></a>&nbsp;&nbsp;
+<a href="https://wa.me/27636690119"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="32"></a>&nbsp;&nbsp;
+<a href="mailto:zahidxtech@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32"></a>
+
+</div>
 
 </div>
 
@@ -80,11 +84,15 @@ I'm a Computer Science and Engineering student specializing in **Artificial Inte
 
 ## Let's Connect
 
-- **Email:** [zahidxtech@gmail.com](mailto:zahidxtech@gmail.com)
-- **LinkedIn:** [linkedin.com/in/zahidxtech](https://www.linkedin.com/in/zahidxtech/)
-- **Instagram:** [@im7hv](https://www.instagram.com/im7hv/)
-- **WhatsApp:** [+27 63 636 90119](https://wa.me/27636690119)
-- **GitHub:** [github.com/zahidxtech](https://github.com/zahidxtech)
+<div align="center">
+
+<a href="https://github.com/zahidxtech"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="32"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/zahidxtech/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/im7hv/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32"></a>&nbsp;&nbsp;
+<a href="https://wa.me/27636690119"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="32"></a>&nbsp;&nbsp;
+<a href="mailto:zahidxtech@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32"></a>
+
+</div>
 
 <div align="center">
 
