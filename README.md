@@ -8,6 +8,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-zahidxtech-111111?style=for-the-badge&logo=github)](https://github.com/zahidxtech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zahidxtech/)
+[![Instagram](https://img.shields.io/badge/Instagram-im7hv-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im7hv/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27636690119)
 [![Email](https://img.shields.io/badge/Email-Contact-16A34A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahidxtech@gmail.com)
 
 </div>
@@ -80,6 +82,8 @@ I'm a Computer Science and Engineering student specializing in **Artificial Inte
 
 - **Email:** [zahidxtech@gmail.com](mailto:zahidxtech@gmail.com)
 - **LinkedIn:** [linkedin.com/in/zahidxtech](https://www.linkedin.com/in/zahidxtech/)
+- **Instagram:** [@im7hv](https://www.instagram.com/im7hv/)
+- **WhatsApp:** [+27 63 636 90119](https://wa.me/27636690119)
 - **GitHub:** [github.com/zahidxtech](https://github.com/zahidxtech)
 
 <div align="center">
