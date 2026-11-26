@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://github.com/zahidxtech"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="32"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/zahidxtech/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/zahidxtech/"><img src="https://img.shields.io/badge/%E2%80%8B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/im7hv/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32"></a>&nbsp;&nbsp;
 <a href="https://wa.me/27636690119"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="32"></a>&nbsp;&nbsp;
 <a href="mailto:zahidxtech@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32"></a>
@@ -87,7 +87,7 @@ I'm a Computer Science and Engineering student specializing in **Artificial Inte
 <div align="center">
 
 <a href="https://github.com/zahidxtech"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" height="32"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/zahidxtech/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/zahidxtech/"><img src="https://img.shields.io/badge/%E2%80%8B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/im7hv/"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="32"></a>&nbsp;&nbsp;
 <a href="https://wa.me/27636690119"><img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="WhatsApp" height="32"></a>&nbsp;&nbsp;
 <a href="mailto:zahidxtech@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="32"></a>
